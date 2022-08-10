@@ -1,0 +1,1 @@
+# aspnet-7-scoped-authhandler-repro
